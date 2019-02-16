@@ -1,0 +1,4 @@
+You need to have discord
+You need to know how to use python
+You need discord bot building skills
+You need Visual Studio Code
