@@ -1,1 +1,2 @@
-worker: python MARCBOT
+worker: python bot.py
+
