@@ -46,4 +46,5 @@ async def help(ctx):
 async def Creator(ctx):
     await Bot.say('I was created BY: @Marcgamer_carbajo#0310')
 
-Bot.run('NTQ2MzE3ODgzOTQxMDYwNjA4.D0mgZw.zOtYnsShVc8CQUmfeKnm5tEQU9Y')
+Bot.run('lelelelele')
+#this is an old version of the bot
